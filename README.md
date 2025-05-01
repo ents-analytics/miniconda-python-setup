@@ -2,12 +2,11 @@
 
 ## Overview
 
-This repository contains documentation, how-to instructions, and user guides for **[Project/Tool Name]** — a [brief description of what the user guide is about].
+This guide walks you through setting up a professional, well-organised Python environment using Miniconda on a Windows machine. It is intended for data analysts, data scientists, and developers seeking to build reproducible and modular workflows with clarity and control. 
 
-It is intended to support:
-- Internal team members learning how to use the system
-- New joiners onboarding to the data/tools/platform
-- Anyone needing step-by-step guidance or a reference
+This guide provides detailed explanations for every concept—environments, kernels, project structure, and more—so beginners and intermediate users alike can confidently manage their Python setup. 
+
+This repository contains documentation, how-to instructions, and user guides for **[Project/Tool Name]** — a [brief description of what the user guide is about], and is intended to support anyone needing step-by-step guidance or a reference
 
 ---
 
